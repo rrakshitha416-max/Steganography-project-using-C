@@ -1,5 +1,7 @@
-README
+
 📌 Description
+
+
 This project implements a Steganography system that hides secret data (such as text messages) inside a BMP image file using the Least Significant Bit (LSB) encoding technique.
 It enables secure transmission of confidential information by embedding it into an image in a way that is imperceptible to the human eye.
 
