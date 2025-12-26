@@ -35,5 +35,4 @@ Retrieves the secret file’s extension, size, and hidden data.
 Recreates the original secret file from the extracted information.
 Ensures accurate and lossless recovery of the hidden information.
 
-Footer
-©
+
